@@ -6,6 +6,7 @@
 ## Instructions
 
 Make the tests pass.
+hello
 
 ### Part 1: Do Some Stuff
 
